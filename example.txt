@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi How are you dev
+=======
+Hii How are you
+>>>>>>> origin/main
